@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Custom Hotkeys Manager",
-    "author": "Your Name",
+    "author": "Patcher",
     "version": (1, 0, 0),
     "blender": (5, 0, 0),
     "location": "3D View",
